@@ -1,3 +1,7 @@
+git rev-parse --short HEAD
+
+
+
 Enkelt lagerhanteringssystem
 ============================
 
